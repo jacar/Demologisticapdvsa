@@ -1,8 +1,3 @@
-<dyad-rename from="src/pages/Index.tsx" to="src/pages/Index.tsx" />
-
-Código actualizado para `src/pages/Index.tsx`:
-
-<dyad-write path="src/pages/Index.tsx" description="Cargar `RouteGenerator` usando React.lazy y Suspense." >
 import { MadeWithVibeStacks } from "@/components/made-with-vibestacks";
 import React, { Suspense, lazy } from "react";
 
